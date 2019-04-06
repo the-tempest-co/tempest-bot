@@ -1,0 +1,31 @@
+{
+  "name": "tempest-bot",
+  "version": "1.0.0",
+  "description": "(\"tempest-bot\")",
+  "main": "index.js",
+  "scripts": {
+    "test": "(\"tempest-bot\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-tempest-co/tempest-bot.git"
+  },
+  "keywords": [
+    "(\"tempest\"",
+    "\"the",
+    "tempest\"",
+    "\"thetempest.co\"",
+    "\"tempest",
+    "bot\")"
+  ],
+  "author": " (\"Shruti Jana\")",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-tempest-co/tempest-bot/issues"
+  },
+  "homepage": "https://github.com/the-tempest-co/tempest-bot#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
